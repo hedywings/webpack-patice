@@ -1,0 +1,24 @@
+{
+  "name": "webpack-practice",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hedywings/webpack-practice.git"
+  },
+  "author": "Hedy Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hedywings/webpack-practice/issues"
+  },
+  "homepage": "https://github.com/hedywings/webpack-practice#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^2.19.0",
+    "webpack": "^1.13.1"
+  }
+}
